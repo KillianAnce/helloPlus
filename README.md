@@ -34,7 +34,7 @@ Hello GENG ALEXIS !
 ```
 ## Dépendances utilisés
 
-* [Maven](https://maven.apache.org/) - Manager de dépendances
+[Maven](https://maven.apache.org/) - Manager de dépendances
 
 * Commons-cli 1.4 : https://commons.apache.org/proper/commons-cli/
 * Commons-csv 1.5 : https://commons.apache.org/proper/commons-csv/
