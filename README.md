@@ -32,11 +32,9 @@ Hello DOLET MAXIME !
 Hello FERRY EMELINE !
 Hello GENG ALEXIS !
 ```
-## Plugin utilisé
+## Dépendances utilisés
 
 * [Maven](https://maven.apache.org/) - Manager de dépendances
-
-### Dépendances utilisés
 
 * Commons-cli 1.4 : https://commons.apache.org/proper/commons-cli/
 * Commons-csv 1.5 : https://commons.apache.org/proper/commons-csv/
